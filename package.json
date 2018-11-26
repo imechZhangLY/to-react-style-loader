@@ -1,0 +1,28 @@
+{
+  "name": "to-react-style-loader",
+  "version": "1.0.0",
+  "description": "Convert css file to a style element for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imechZhangLY/to-react-style-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "css",
+    "style",
+    "react"
+  ],
+  "author": "zhangluyao01@baidu.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imechZhangLY/to-react-style-loader/issues"
+  },
+  "homepage": "https://github.com/imechZhangLY/to-react-style-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
